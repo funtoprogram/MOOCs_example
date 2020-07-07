@@ -5,3 +5,5 @@ YouTube頻道：https://www.youtube.com/channel/UCoQzbAB-dVSJe_OkkWBc3bg/playlis
 <br>
 主要教學軟體：Processing (download：https://processing.org/download/)<br>
 <br>
+全數教材導引網站：https://sites.google.com/view/funtoprogram/<br>
+<br>
