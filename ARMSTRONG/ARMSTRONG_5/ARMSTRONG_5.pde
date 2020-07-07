@@ -141,7 +141,7 @@ void draw() {
       image(box, boxX, boxY);
       
       if(boxY == armY 
-      && boxX < boxX+arm.width 
+      && boxX < armX+arm.width 
       && boxX+box.width > armX
       && armHP < 3) {
         armHP++;
